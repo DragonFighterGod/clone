@@ -2,3 +2,4 @@ hello:clone github
 hello:physics self
 hello:other myself
 virtual:人生几何，对酒当歌。
+physics:今朝有酒今朝醉
