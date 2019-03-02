@@ -1,2 +1,3 @@
 hello:clone github
 hello:physics self
+hello:other myself
