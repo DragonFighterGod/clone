@@ -1,3 +1,4 @@
 hello:clone github
 hello:physics self
 hello:other myself
+virtual:人生几何，对酒当歌。
